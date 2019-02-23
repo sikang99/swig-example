@@ -1,5 +1,4 @@
-/* File : example.c */
-
+/* File : fact.c */
 double  My_variable  = 3.0;
 
 /* Compute factorial of n */

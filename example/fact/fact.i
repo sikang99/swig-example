@@ -1,4 +1,4 @@
-/* File : example.i */
+/* File : fact.i */
 %module example
 %{
 /* Put headers and other declarations here */
