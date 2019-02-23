@@ -1,5 +1,5 @@
 /* File : fact.i */
-%module example
+%module fact
 %{
 /* Put headers and other declarations here */
 extern double My_variable;
