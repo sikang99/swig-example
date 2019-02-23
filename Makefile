@@ -21,7 +21,7 @@ git g:
 	@echo ""
 
 git-update gu:
-	git add Makefile* *.md
+	git add Makefile* *.md example/
 	git commit -m "initial commit"
 	#git commit -m "update commentaries"
 	#git commit -m "rename /reference into /code"
